@@ -1,4 +1,4 @@
-Logistic Regression for Diabetes Prediction
+Logistic Regression for Diabetes Prediction.
 This repository contains a Python script that demonstrates the implementation of logistic regression for predicting diabetes based on certain features. The dataset used for this example is the "diabetes.csv" file.
 
 Getting Started
